@@ -1,5 +1,5 @@
 # 人工智能与计算海洋学实验室![image](https://user-images.githubusercontent.com/126380997/221399819-639834ae-22e8-4b7c-a15e-5ba80024e5b5.png)
-WELCOME
+AICO WELCOME
 
 ## 简介 DESCRIPTION
 我们主要关注计算机数值建模与分析、深度学习与视觉智能、海洋遥感、数据挖掘与大数据分析等研究领域
@@ -15,7 +15,7 @@ WELCOME
 
 • [202209] 祝贺2020级硕士生韩立晨SCI论文录用！(International Journal of Antennas and Propagation,SCI四区)
 
-• [202204] 获批山东省青年创新团队项目 (海洋大数据智能信息处理创新团队,项目负责人(1/5),202201-202412,编号2022KJ319)
+• [202204] 获批山东省青年创新团队项目 (海洋大数据智能信息处理创新团队,团队负责人(1/5),202201-202412,编号2022KJ319)
 
 • [202204] 祝贺2020级硕士生韩立晨SCI论文录用！(Frontiers in Marine Science,SCI一区)
 
