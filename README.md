@@ -44,7 +44,7 @@ AICO WELCOME
 
 
 ## 实验室活动 ACTIVITIES
-• [202204] 实验室推荐2020级硕士生刘斌、韩立晨参加中国海洋大学举办的海洋科考认知实践活动，并登上“东方红2”号科考船实践2天。![image](https://user-images.githubusercontent.com/126380997/221402343-4ccb4201-e179-4262-a419-2564c7cca3a0.png)![image](https://user-images.githubusercontent.com/126380997/221402367-80415272-2953-43cf-bfb8-8e92436ffb10.png)
+☕ [202204] 实验室推荐2020级硕士生刘斌、韩立晨参加中国海洋大学举办的海洋科考认知实践活动，并登上“东方红2”号科考船实践2天。![image](https://user-images.githubusercontent.com/126380997/221402343-4ccb4201-e179-4262-a419-2564c7cca3a0.png)![image](https://user-images.githubusercontent.com/126380997/221402367-80415272-2953-43cf-bfb8-8e92436ffb10.png)
 
 
 
