@@ -7,6 +7,8 @@ WELCOME
 # 最新 NEWS
 • [202302] 祝贺2021级硕士生张北平SCI论文录用！(Applied Intelligence,SCI二区,中国计算机学会CCF推荐期刊)
 
+• [202210] 祝贺硕士生韩立晨(2020级)、刘斌(2020级)、许杰(2021级)分别获得山东科技大学校级研究生一等、二等、二等学业奖学金！
+
 • [202210] 祝贺2020级硕士生刘斌SCI论文录用！(Journal of Marine Science and Engineering,SCI三区)
 
 • [202209] 欢迎2022级硕士生孙庆鑫、王乐天、李若玉、温碧瑶、Claire(贝宁留学生)加入实验室！
@@ -42,7 +44,7 @@ WELCOME
 
 
 # 实验室活动 ACTIVITIES
-
+• [202204] 实验室推荐2020级硕士生刘斌、韩立晨参加中国海洋大学举办的海洋科考认知实践活动，并登上“东方红2”号科考船实践2天。
 
 # 联系 CONTACT
 ☎ Email: wugengkun@sdust.edu.cn
